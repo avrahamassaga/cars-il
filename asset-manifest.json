@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cars-il/static/css/main.bd4a2f6c.css",
-    "main.js": "/cars-il/static/js/main.c69db233.js",
+    "main.css": "/cars-il/static/css/main.d6b508bd.css",
+    "main.js": "/cars-il/static/js/main.cc6fd68c.js",
     "static/js/787.3edc1dd4.chunk.js": "/cars-il/static/js/787.3edc1dd4.chunk.js",
     "static/media/load.gif": "/cars-il/static/media/load.0e4424248ed971803667.gif",
     "static/media/logo.png": "/cars-il/static/media/logo.da9c9b1fc820d5fbae4b.png",
     "static/media/search.png": "/cars-il/static/media/search.7b8022206fe80dde962c.png",
     "index.html": "/cars-il/index.html",
-    "main.bd4a2f6c.css.map": "/cars-il/static/css/main.bd4a2f6c.css.map",
-    "main.c69db233.js.map": "/cars-il/static/js/main.c69db233.js.map",
+    "main.d6b508bd.css.map": "/cars-il/static/css/main.d6b508bd.css.map",
+    "main.cc6fd68c.js.map": "/cars-il/static/js/main.cc6fd68c.js.map",
     "787.3edc1dd4.chunk.js.map": "/cars-il/static/js/787.3edc1dd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd4a2f6c.css",
-    "static/js/main.c69db233.js"
+    "static/css/main.d6b508bd.css",
+    "static/js/main.cc6fd68c.js"
   ]
 }
