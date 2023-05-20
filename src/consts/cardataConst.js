@@ -5,7 +5,7 @@ export const cardata = {
     "mivchan_acharon_dt": "טסט אחרון",
     "tokef_dt": "תוקף רישיון",
     "achrayut": "אחריות",
-    "memuza_kilometer":"ממוצע קילומטר  ממומלץ לרכב זה ",
+    "memuza_kilometer":"ממוצע קילומטר מומלץ לרכב זה ",
     "gil": "גיל הרכב",
     "shnat_yitzur": "שנת ייצור",
     "ahrayut": "אחריות",

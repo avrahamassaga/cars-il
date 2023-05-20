@@ -4,6 +4,7 @@ import logo from "../../assets/img/logo.png";
 import loader from "../../assets/gif/load.gif";
 import search from "../../assets/img/search.png";
 import DisplayInfo from "../components/showData/DisplayInfo";
+import { terms } from '../../consts/termsAndConditions'
 export default function HomePage() {
   const [isValue, setIsValue] = useState(false);
   const [carInfo, setCarInfo] = useState({});
@@ -34,6 +35,7 @@ export default function HomePage() {
       <div className="flex justify-center items-center">
         {dataView}
       </div>
+      <p>{terms}</p>
     </div>
   );
 }
