@@ -35,7 +35,7 @@ export default function HomePage() {
       <div className="flex justify-center items-center">
         {dataView}
       </div>
-      <p>{terms}</p>
+      <p className="text-[12px] text-gray-300">{terms}</p>
     </div>
   );
 }
