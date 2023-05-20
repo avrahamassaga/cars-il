@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/avrahamassaga/cars-il/static/css/main.bd4a2f6c.css",
-    "main.js": "/avrahamassaga/cars-il/static/js/main.4120a5e2.js",
-    "static/js/787.3edc1dd4.chunk.js": "/avrahamassaga/cars-il/static/js/787.3edc1dd4.chunk.js",
-    "static/media/load.gif": "/avrahamassaga/cars-il/static/media/load.0e4424248ed971803667.gif",
-    "static/media/logo.png": "/avrahamassaga/cars-il/static/media/logo.da9c9b1fc820d5fbae4b.png",
-    "static/media/search.png": "/avrahamassaga/cars-il/static/media/search.7b8022206fe80dde962c.png",
-    "index.html": "/avrahamassaga/cars-il/index.html",
-    "main.bd4a2f6c.css.map": "/avrahamassaga/cars-il/static/css/main.bd4a2f6c.css.map",
-    "main.4120a5e2.js.map": "/avrahamassaga/cars-il/static/js/main.4120a5e2.js.map",
-    "787.3edc1dd4.chunk.js.map": "/avrahamassaga/cars-il/static/js/787.3edc1dd4.chunk.js.map"
+    "main.css": "/cars-il/static/css/main.bd4a2f6c.css",
+    "main.js": "/cars-il/static/js/main.c58db67a.js",
+    "static/js/787.3edc1dd4.chunk.js": "/cars-il/static/js/787.3edc1dd4.chunk.js",
+    "static/media/load.gif": "/cars-il/static/media/load.0e4424248ed971803667.gif",
+    "static/media/logo.png": "/cars-il/static/media/logo.da9c9b1fc820d5fbae4b.png",
+    "static/media/search.png": "/cars-il/static/media/search.7b8022206fe80dde962c.png",
+    "index.html": "/cars-il/index.html",
+    "main.bd4a2f6c.css.map": "/cars-il/static/css/main.bd4a2f6c.css.map",
+    "main.c58db67a.js.map": "/cars-il/static/js/main.c58db67a.js.map",
+    "787.3edc1dd4.chunk.js.map": "/cars-il/static/js/787.3edc1dd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd4a2f6c.css",
-    "static/js/main.4120a5e2.js"
+    "static/js/main.c58db67a.js"
   ]
 }
